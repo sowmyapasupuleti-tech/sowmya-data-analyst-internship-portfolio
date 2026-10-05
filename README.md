@@ -132,7 +132,7 @@ To communicate analytical findings effectively and support business conclusions 
 
 The final presentation summarizes the major analytical findings, insights, and conclusions developed during the internship.
 
-📊 **[View Final Presentation](Final_Presentation/Sales_Performance_Customer_Insights.pptx)**
+📊 **[View Final Presentation](Sales-Performance-and-Customer-Insights.pptx)**
 
 ---
 
